@@ -28,7 +28,7 @@
 
 #### Formato da requisição caso der tudo certo.
 
-**<font color="green">GET</font> /api/users - Formato da Resposta - <font color="lime">201 CREATED</font>**
+**<font color="green">POST</font> /api/users - Formato da Resposta - <font color="lime">201 CREATED</font>**
 
 ```js
     {
